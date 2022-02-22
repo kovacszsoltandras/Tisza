@@ -27,4 +27,15 @@ table{
        background-color: green;
        font-weight: bold;
        color: white; 
- }  
+ } 
+ 
+ #footerlink{
+      text-align: right;
+    color: white;
+    text-decoration: none;
+   
+  }
+
+  #jobbrafooter{
+      text-align: right;
+  }

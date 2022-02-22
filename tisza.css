@@ -39,3 +39,9 @@ table{
   #jobbrafooter{
       text-align: right;
   }
+
+  p{
+    text-align: justify;
+    text-indent: 16px;
+     
+  } 

@@ -1,3 +1,13 @@
-.jobbratovabb {
+.jobbratovabb { 
     text-align: right;
 }
+
+.elsokep{ 
+    float: right;
+    margin-left: auto;
+    margin-right: 0;
+    display: block;  
+    padding: 10px ;
+    height: 270px;
+    width: 25% 25% 25% 25%;
+   }
